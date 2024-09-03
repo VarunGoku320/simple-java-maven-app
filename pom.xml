@@ -59,6 +59,7 @@
             </goals>
             <configuration>
               <rules>
+                <!-- Require Maven version 3.9.2 or later -->
                 <requireMavenVersion>
                   <version>[3.9.2,)</version>
                 </requireMavenVersion>
